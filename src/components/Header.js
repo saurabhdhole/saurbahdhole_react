@@ -17,9 +17,9 @@ class Header extends Component {
                         <Button size="large" color="inherit" to="/">About Me!</Button>
                         <Button size="large" color="inherit" to="/" >Skills</Button>
                         <Button size="large" color="inherit" to="/" >Experience</Button>
-                        <Button size="large" color="inherit" to="/" >Timeline</Button>
-                        <Button size="large" color="inherit" to="/" >Projects</Button>
+                        {/* <Button size="large" color="inherit" to="/" >Timeline</Button> */}
                         <Button size="large" color="inherit" to="/" >Blogs</Button>
+                        <Button size="large" color="inherit" to="/" >Projects</Button>
                         <Button size="large" color="inherit" to="/" >Contact</Button>
                     </Toolbar>
                 </AppBar>
